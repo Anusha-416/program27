@@ -1,0 +1,4 @@
+import os
+os.mkdir("ammu")
+cwd=os.getcwd()
+print("your current working directory is:",cwd)
